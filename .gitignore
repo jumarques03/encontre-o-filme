@@ -1,8 +1,1 @@
-# Ignora o ambiente virtual
-venv/
 
-# Ignora arquivos compilados do Python
-__pycache__/
-
-# Ignora variáveis sensíveis
-.env
